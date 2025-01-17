@@ -38,7 +38,8 @@ Skills
   * Design and modelling waveguide structures
   * Simulate light propagation in optical fibres and free space
   * Software: Comsol, Zemax
-* Experimental: fibre optics; free space optics; nonlinear optics; laser beam shaping, steering, and characterization; spatial light modulator; interferometry
+* Experimental:
+  fibre optics; free space optics; nonlinear optics; laser beam shaping, steering, and characterization; spatial light modulator; interferometry
 
 Publications
 ======
