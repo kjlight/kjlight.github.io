@@ -22,7 +22,7 @@ Work experience
   * Duties includes: 
   * Supervisor: Dr. Massimiliano Guasoni
 
-* Fall 2023: Lab demonstrator
+* Fall 2023: Lab Demonstrator
   * Southampton University
   * Duties included: Guiding and marking undergraduates on physics experiments
 
