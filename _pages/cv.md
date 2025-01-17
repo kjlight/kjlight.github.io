@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Optoelectronics, Southampton University, 2020-2024
+* M.Sc. in Optical Engineering, Nanjing University of Science and Technology, 2017-2020
+* B.Sc. in Optoelectronics, Nanjing University of Science and Technology, 2013-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2024 - now: Research Fellow
+  * Southampton University
+  * Duties includes: 
+  * Supervisor: Dr. Massimiliano Guasoni
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Lab demonstrator
+  * Southampton University
+  * Duties included: Guiding and marking undergraduates on physics experiments
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Visiting Research Assistant
+  * King Abdullah University of Science and Technology
+  * Duties included: Conducting research on 3D-printed microstructures on fibre tip for particle trapping
+  * Supervisor: Professor Carlo Liberale
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Matlab, Python
+* Numerical:
+  * Design and modelling waveguide structures
+  * Simulate light propagation in optical fibres and free space
+  * Software: Comsol, Zemax
+* Experimental: fibre optics; free space optics; nonlinear optics; laser beam shaping, steering, and characterization; spatial light modulator; interferometry
 
 Publications
 ======
