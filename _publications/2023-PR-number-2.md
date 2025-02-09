@@ -2,7 +2,7 @@
 title: "Controlled generation of picosecond-pulsed higher-order Poincaré sphere beams from an ytterbium-doped multicore fiber amplifier"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-PR-number-2
 excerpt: 'This paper is about a fundamental property of Kerr-nonlinear media - mode rejction in two intense counter-propagating light beams.'
 date: 2023-02-01
 venue: 'Photonics Research'
