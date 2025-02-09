@@ -1,7 +1,7 @@
 ---
 title: "Mode decomposition for multicore fibers based on far-field intensity measurements"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about mode decomposition method for multicore fibers.'
 date: 2025-01-31
