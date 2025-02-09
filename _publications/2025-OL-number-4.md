@@ -6,7 +6,7 @@ permalink: /publication/2025-OL-number-4
 excerpt: 'This paper is about mode decomposition method for multicore fibers.'
 date: 2025-01-31
 venue: 'Optics Letters'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/ol-50-3-1045.pdf'
 citation: 'Mode decomposition for multicore fibers based on far-field intensity measurements," Opt. Lett. 50, 1045-1048 (2025).'
 ---
 
