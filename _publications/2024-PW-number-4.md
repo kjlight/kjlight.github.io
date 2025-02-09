@@ -6,7 +6,6 @@ permalink: /publication/2024-PW-number-4
 excerpt: 'This paper is about two novel fundamental notions in the counter-propagating nonlinear interaction scheme, namely mode rejection and all-optical gratings.'
 date: 2024-03-13
 venue: 'Photonics West'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'K. Ji, I. Davidson, J. Sahu, D. J. Richardson, S. Wabnitz, M. Guasoni, "Mode rejection and counter-propagating all-optical gratings in multimode waveguides," Proc. SPIE PC12871, Laser Resonators, Microresonators, and Beam Control XXVI'
 ---
 
