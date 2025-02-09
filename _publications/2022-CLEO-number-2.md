@@ -3,7 +3,7 @@ title: "Observation of Light Self-Organization and Mode Attraction in a Multimod
 collection: publications
 category: conferences
 permalink: /publication/2022-CLEO-number-2
-excerpt: 'This paper is about he first-ever quantitative analysis of mode attraction in a multimode fiber with a counter-propagative setup.'
+excerpt: 'This paper is about the first-ever quantitative analysis of mode attraction in a multimode fiber with a counter-propagative setup.'
 date: 2022-05-15
 venue: 'CLEO-US'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
