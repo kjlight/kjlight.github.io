@@ -6,7 +6,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about a fundamental property of Kerr-nonlinear media - mode rejction in two intense counter-propagating light beams.'
 date: 2023-11-24
 venue: 'Nature Communications'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'K. Ji, I. A. Davidson, J. Sahu, D. J. Richardson, S. Wabnitz, M. Guasoni, "Mode attraction, rejection and control in nonlinear multimode optics," Nat. Commun. (2023).'
 ---
