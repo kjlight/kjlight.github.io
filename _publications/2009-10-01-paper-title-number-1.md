@@ -3,7 +3,7 @@ title: "Controlled generation of picosecond-pulsed higher-order Poincaré sphere
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the controlled generation of Higher-order Poincaré sphere (HOPS) beams based on coherent beam combination from an Yb-doped multicore fiber (MCF) amplifier.'
 date: 2023-01-23
 venue: 'Photonics Research'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
