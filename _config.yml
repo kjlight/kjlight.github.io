@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kunhao Ji / My Channel" # change by kj
+title                    : "My Channel" # change by kj
 title_separator          : "-"
 name                     : &name "Kunhao Ji"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "kjlight/kjlight.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lkh.jpg"
   name             : "Kunhao Ji(季琨皓)"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow"
