@@ -1,14 +1,14 @@
 ---
-title: "Mode decomposition for multicore fibers based on far-field intensity measurements"
+title: "Mode attraction, rejection and control in nonlinear multimode optics"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about mode decomposition method for multicore fibers.'
-date: 2025-01-31
-venue: 'Optics Letters'
+excerpt: 'This paper is about a fundamental property of Kerr-nonlinear media - mode rejction in two intense counter-propagating light beams.'
+date: 2023-11-24
+venue: 'Nature Communications'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Kunhao Ji, "Mode decomposition for multicore fibers based on far-field intensity measurements," Opt. Lett. 50, 1045-1048 (2025).'
+citation: 'K. Ji, I. A. Davidson, J. Sahu, D. J. Richardson, S. Wabnitz, M. Guasoni, "Mode attraction, rejection and control in nonlinear multimode optics," Nat. Commun. (2023).'
 ---
 
-We present a mode decomposition method for multicore fibers (MCFs) that is based on intensity measurements in the far-field. Mode decomposition of several homemade multicore fibers is demonstrated in the far-field with low residual errors. Accurate measurement of supermode compositions and of the electric fields among cores is crucial for many applications involving multicore fibers as well as their integration into multimode platforms.
+Novel fundamental notions helping in the interpretation of the complex dynamics of nonlinear systems are essential to our understanding and ability to exploit them. In this work we predict and demonstrate experimentally a fundamental property of Kerr-nonlinear media, which we name mode rejection and takes place when two intense counter-propagating beams interact in a multimode waveguide. In stark contrast to mode attraction phenomena, mode rejection leads to the selective suppression of a spatial mode in the forward beam, which is controlled via the counter-propagating backward beam. Starting from this observation we generalise the ideas of attraction and rejection in nonlinear multimode systems of arbitrary dimension, which paves the way towards a more general idea of all-optical mode control. These ideas represent universal tools to explore novel dynamics and applications in a variety of optical and non-optical nonlinear systems. Coherent beam combination in polarisation-maintaining multicore fibres is demonstrated as example.
