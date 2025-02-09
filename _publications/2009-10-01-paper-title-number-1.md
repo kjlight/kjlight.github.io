@@ -1,14 +1,14 @@
 ---
-title: "Controlled generation of picosecond-pulsed higher-order Poincaré sphere beams from an ytterbium-doped multicore fiber amplifier"
+title: "Fast measurement of the laser beam quality factor based on phase retrieval with a liquid lens"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the controlled generation of Higher-order Poincaré sphere (HOPS) beams based on coherent beam combination from an Yb-doped multicore fiber (MCF) amplifier.'
-date: 2023-01-23
-venue: 'Photonics Research'
+excerpt: 'This paper is about a new method for measuring the beam quality factor of laser beams based on phase retrieval with a liquid lens.'
+date: 2019-04-10
+venue: 'Applied Optics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'K. Ji, D. Lin, I. A. Davidson, S. Wang, J. Carpenter, Y. Amma, Y. Jung, M. Guasoni, and D. J. Richardson, "Controlled generation of picosecond-pulsed higher-order Poincaré sphere beams from an ytterbium doped multicore fiber amplifier," Photon. Res. (2023)'
+citation: 'K. Ji, T. Hou, J. Li, L. Meng, Z. Han, and R. Zhu, "Fast measurement of the laser beam quality factor based on phase retrieval with a liquid lens," Appl. Opt. 58, 2765-2772 (2019)'
 ---
 
-Higher-order Poincaré sphere (HOPS) beams with spatially variable polarization and phase distributions are opening up a host of unique applications in areas ranging from optical communication to microscopy. However, the flexible generation of these beams with high peak power from compact laser systems remains a challenge. Here, we demonstrate the controlled generation of HOPS beams based on coherent beam combination from an Yb-doped multicore fiber (MCF) amplifier. Using a spatial light modulator to adaptively adjust the wavefront and polarization of the signals seeded into the individual cores of the MCF various structured beams (including cylindrical vector beams and first- and second-order vortex beams) were generated with peak powers up to 14 kW for ∼92  ps pulses.
+In this paper, a new method for measuring the beam quality (M^2) of lasers based on phase retrieval with a liquid lens is proposed. With intensity profiles obtained under different focal lengths in a certain position, a variable-focus iterative retrieval algorithm is established for the reconstruction of the complex amplitude. Then M^2 can be calculated with the angular spectrum theory. Feasibility of the proposed method is demonstrated with single- and multimode lasers through both simulations and experiments. Compared with the traditional liquid lens method, the M^2 of lasers can be measured faster with the proposed method.
