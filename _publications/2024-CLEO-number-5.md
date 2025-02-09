@@ -2,7 +2,7 @@
 title: "Wavelength and Supermode Conversion based on Four-Wave Mixing in Coupled Multicore Fibres"
 collection: publications
 category: conferences
-permalink: /publication/2024-CLEO-number-4
+permalink: /publication/2024-CLEO-number-5
 excerpt: 'This paper is about wavelength and supermode conversion in coupled multicore fibres.'
 date: 2024-05-05
 venue: 'CLEO-US'
