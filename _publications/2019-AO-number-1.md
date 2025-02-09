@@ -6,7 +6,6 @@ permalink: /publication/2019-AO-number-1
 excerpt: 'This paper is about a new method for measuring the beam quality factor of laser beams based on phase retrieval with a liquid lens.'
 date: 2019-04-10
 venue: 'Applied Optics'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'K. Ji, T. Hou, J. Li, L. Meng, Z. Han, and R. Zhu, "Fast measurement of the laser beam quality factor based on phase retrieval with a liquid lens," Appl. Opt. 58, 2765-2772 (2019)'
 ---
 
