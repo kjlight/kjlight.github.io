@@ -41,6 +41,8 @@ Laser beam characterization
 
   Mode decomposition of multimode fibres/coupled-multicore fibres based on intensity measurements.
   
+  <br/><img src='/images/MCF-MD-Fig1.svg'>
+   
 * _**Phase retrieval and laser beam quality measurement**_
 
   Characterisation of high-power fibre lasers via reconstructing complex amplitude by liquid lens and by implementing a proposed iterative phase retrieval algorithm.
