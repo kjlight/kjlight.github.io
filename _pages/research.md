@@ -28,7 +28,7 @@ Laser beam shaping
 
   <br/><img src='/images/2.svg'>
 RECONFIGURABLE GENERATION OF STRUCTURED LIGHT BEAMS FROM A 6-CORE FIBRE
-  <br/><img src='/images/A_principle2.tif'> <br/><img src='/images/A_result2.tif'>
+  <br/><img src='/images/MCF-CBC-RESULT.svg'>
   
 * _**Spectral shaping: wavelength and mode conversion in multimode and multicore fibres**_
 
