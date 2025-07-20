@@ -16,6 +16,7 @@ Fibre optics/Free space optics
   A new concept "mode rejection" was proposed with proof-of-concept experiments using multimode fibres and multicore fibres. By adjusting the boundary conditions applied to the multimode systems (where a spatial light modulator was used to precisely steer light into different fibre modes or fibre cores), several conceptual devices were demonstrated, including all-optically tunable mode switcher; all-optically tunable power splitter/combiner/switcher; all-optical remote phase detection.
 
   <br/><img src='/images/FIG1-new2.svg'>
+  <br/><img src='/images/Fig1.svg'>
 
 Laser beam shaping
 ======
