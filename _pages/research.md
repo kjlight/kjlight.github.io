@@ -16,6 +16,8 @@ Fibre optics/Free space optics
   A new concept "mode rejection" was proposed with proof-of-concept experiments using multimode fibres and multicore fibres. By adjusting the boundary conditions applied to the multimode systems (where a spatial light modulator was used to precisely steer light into different fibre modes or fibre cores), several conceptual devices were demonstrated, including all-optically tunable mode switcher; all-optically tunable power splitter/combiner/switcher; all-optical remote phase detection.
 
   <br/><img src='/images/FIG1-new2.svg'>
+
+ALL-OPTICALLY RECONFIGURABLE PHOTONICS IN OPTICAL FIBRES
   <br/><img src='/images/Fig1.svg'>
 
 Laser beam shaping
@@ -25,6 +27,8 @@ Laser beam shaping
   Developed a multicore fibre amplifier for reconfigurable generation of high-peak-power, picosecond-pulsed beams with a variety of spatial modes: By using a spatial light modulator adaptively controlling the signal wavefront coupled into each fibre core, the output laser from a 6-core Yb-doped fibre was coherently combined into a stable and reconfigurable user-defined beam shape, including LP modes, optical vortex modes and vector modes.
 
   <br/><img src='/images/2.svg'>
+RECONFIGURABLE GENERATION OF STRUCTURED LIGHT BEAMS FROM A 6-CORE FIBRE
+  <br/><img src='/images/A_principle2.tif'> <br/><img src='/images/A_result2.tif'>
   
 * _**Spectral shaping: wavelength and mode conversion in multimode and multicore fibres**_
 
