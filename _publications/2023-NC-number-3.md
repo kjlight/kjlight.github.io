@@ -3,7 +3,7 @@ title: "Mode attraction, rejection and control in nonlinear multimode optics"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-NC-number-3
-excerpt: 'This paper is about a fundamental property of Kerr-nonlinear media - mode rejction in two intense counter-propagating light beams.'
+excerpt: 'This paper is about a fundamental property of Kerr-nonlinear media - mode rejection in two intense counter-propagating light beams.'
 date: 2023-11-24
 venue: 'Nature Communications'
 paperurl: 'http://academicpages.github.io/files/s41467-023-42869-0.pdf'
